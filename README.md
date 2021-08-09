@@ -1,4 +1,4 @@
-# Simulations
+# simulations
 Python OOP.
 
 Basic Simulations + Matplotlib Graph.
